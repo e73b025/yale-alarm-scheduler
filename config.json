@@ -1,0 +1,16 @@
+{
+  "enable_logging": true,
+  "yale": {
+    "email": "",
+    "password": ""
+  },
+  "send_grid": {
+    "api_key": "",
+    "email_from": "you@youremail.com",
+    "email_to": "you@youremail.com"
+  },
+  "schedule": {
+    "23:00": "arm",
+    "06:00": "disarm"
+  }
+}

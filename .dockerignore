@@ -1,0 +1,8 @@
+venv
+.idea
+.git
+.gitignore
+.dockerignore
+.DS_Store
+Dockerfile
+runnable.sh

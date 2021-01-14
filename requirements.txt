@@ -1,0 +1,4 @@
+yalesmartalarmclient~=0.3.0
+sendgrid~=6.4.8
+backoff
+schedule~=0.6.0
