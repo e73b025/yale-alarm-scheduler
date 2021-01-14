@@ -13,6 +13,16 @@ Run it directly via your favourite Python interpreter, use provided Dockerfile o
 * Yale Alarm System (Yale Smart Living WIFI Enabled)
 * [SendGrid](https://sendgrid.com) (if you wish to get email notifications)
 
+## Schedule (in config.json file)
+
+```
+ "schedule": {
+    "23:00": "arm",
+    "06:00": "disarm"
+  }
+```
+Allowed values for state are: ```arm```, ```disarm``` and ```home``` (for partial arm).
+
 ## Setup
 
 You can run the script directly via a Python interpreter or, alternatively, use docker.
