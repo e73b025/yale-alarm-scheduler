@@ -15,6 +15,13 @@ Run it directly via your favourite Python interpreter, use provided Dockerfile o
 * Yale Alarm System (Yale Smart Living WIFI Enabled)
 * [SendGrid](https://sendgrid.com) (if you wish to get email notifications)
 
+## Python Packages
+
+* [yale-smart-alarm-client](https://github.com/domwillcode/yale-smart-alarm-client)
+* [sendgrid])(https://github.com/sendgrid/sendgrid-python)
+* backoff
+* schedule
+
 ## Schedule (in config.json file)
 
 ```
