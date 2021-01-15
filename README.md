@@ -18,7 +18,7 @@ Run it directly via your favourite Python interpreter, use provided Dockerfile o
 ## Python Packages
 
 * [yale-smart-alarm-client](https://github.com/domwillcode/yale-smart-alarm-client)
-* [sendgrid])(https://github.com/sendgrid/sendgrid-python)
+* [sendgrid](https://github.com/sendgrid/sendgrid-python)
 * backoff
 * schedule
 
