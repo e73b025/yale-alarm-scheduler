@@ -2,6 +2,8 @@
 
 ## Overview
 
+![graph](https://user-images.githubusercontent.com/60853824/104706444-fff1da00-5712-11eb-98f7-634d56822719.png)
+
 A super simple package/script that will allow you to easily arm and disarm your Yale alarm system using a provided 
 schedule. The schedule along with the configuration details are stored in config file.
 
